@@ -12,9 +12,12 @@ function login() {
     qrDiv.style.display = "block";
     generateQRCode(`Gửi bé nhất ${username} 
         \n
-        \n Vậy là cũng đã hơn 1 tháng một chút xíu chúng ta yêu nhau, đây là lần đầu tiên anh viết thư cho em dưới hình thức lạ hoắc này
-        \n Có lẽ khoảng thời gian vừa qua anh có chút mệt mỏi về học tập công việc nhưng khi nói chuyện và gặp em, nụ cười của anh lại hiện ra vì sự hạnh phúc, hào hứng khi em đến bên anh
-        \n Cảm ơn em đã đến bên anh, anh mong sẽ tạo thêm nhiều điều bất ngờ hơn thế này cho người anh yêu nhất <3 `);
+         Vậy là cũng đã hơn 1 tháng một chút xíu chúng ta yêu nhau, đây là lần đầu tiên anh viết thư cho em dưới hình thức lạ hoắc này
+         Có lẽ khoảng thời gian bên em là lúc anh cảm thấy vui vẻ nhất. Gần đây anh có đôi chút mệt mỏi vì học tập và công việc, nhưng mỗi khi được nói chuyện hay gặp em, 
+        nụ cười lại hiện lên trên môi anh. Em mang đến cho anh cảm giác hạnh phúc và háo hức, như thể mọi mệt mỏi đều tan biến khi em xuất hiện
+         Cảm ơn em vì đã đến bên anh, đã mang đến cho anh một tình yêu mà anh luôn khao khát. Anh mong rằng mình sẽ còn tạo ra nhiều điều bất ngờ, 
+        nhiều niềm vui hơn thế này dành cho người con gái anh yêu nhất. <3 
+        \n Yêu vợ tương lai, Xbac của em <3`);
   } else {
     message.textContent = "Tên đăng nhập hoặc mật khẩu sai!";
   }
