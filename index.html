@@ -1,27 +1,43 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Website of Biayciii</title>
+  <title>Web of Biayciii</title>
   <link rel="stylesheet" href="Anhbac.css"/>
 </head>
 <body>
-  <div class="container">
-    <h2>Đăng nhập đi, hay lắm :)))</h2>
-    <div id="login-form">
-      <input type="text" id="username" placeholder="Tên đăng nhập" required />
-      <input type="password" id="password" placeholder="Mật khẩu" required />
-      <button onclick="login()">Đăng nhập</button>
-      <p id="message" class="error"></p>
-      
-    </div>
+  <div class="container" id="login-screen">
+    <h2>Knock!!! on the heart</h2>
+    <input type="text" id="username" placeholder="username" required />
+    <input type="password" id="password" placeholder="password" required />
+    <button onclick="login()">Let's goo</button>
+    <p id="login-msg" class="error"></p>
+  </div>
 
-    <div id="qrcode" style="display: none;">
-      <h3>QR Code của bạn:</h3>
-      <canvas id="canvas"></canvas>
+  <div class="container" id="letter-screen" style="display: none;">
+    <h2>Click a heart</h2>
+    <ul id="letter-list"></ul>
+  </div>
+
+  <div class="container" id="verify-screen" style="display: none;">
+    <h2>verify code</h2>
+    <input type="text" id="verify-code" placeholder="Your code..." />
+    <button onclick="verifyCode()">verify</button>
+    <p id="verify-msg" class="error"></p>
+  </div>
+ 
+  
+  <div class="container" id="letter-content-screen" style="display: none;">
+    <h2 id="letter-title"></h2>
+    <pre id="letter-body" class="letter-body"></pre>
+
+    <div style="display: flex; justify-content: center; margin-top: 20px;">
+      <button onclick="backToLetterList()">Back to letter</button>
     </div>
   </div>
+
+
 
   <script src="https://cdn.jsdelivr.net/npm/qrcode/build/qrcode.min.js"></script>
   <script src="Anhbac.js"></script>
