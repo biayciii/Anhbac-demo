@@ -34,8 +34,17 @@ Vậy là chúng ta cũng đi đến những ngày cuối tháng 7 rồi, gần 
 <3 u 4e,  
 Dchou`,
   code: "22072025"
-}
-
+},
+  {title: "30082025: thư của mèo iu :)) <3",
+  content: ` Ayyy dooo, lại thêm một tháng nữa trôi qua anh lại được viết thư hehhee. Chúng ta bắt đầu tháng 8 trong môi trường mới nhiều kỉ niệm nhưng trong đó cũng có chút biến động.
+  Là những lúc anh không liên lạc được cho em, là những nỗi nhớ vu vơ và cả những mảnh tình gần như sắp kết thúc. Nhưng rồi trong những khoảnh khắc yếu lòng anh lại không lỡ bỏ đi một 
+  người đang yêu mình, đang mong chờ một cái ôm khi gặp và một nụ hôn khi tạm biệt nhau. Có lẽ khoảng thời gian tháng 8 anh nhận thấy bản thân mình đã có những sai sót những điểm yếu hại người
+  mà khi anh ra khỏi Hòa Lạc anh đã dần bớt lại và muốn ... yêu em nhiều hơn trước. 
+  Hôm nay là tròn 4 tháng chúng ta yêu nhau, lại thêm một lần nữa anh suýt bỏ lỡ em, nhưng anh vẫn ở đây, vẫn là một chàng trai luôn hết mình yêu em. Liệu rằng, cuộc sống khi đi học có làm 
+  thay đổi con tim chúng ta không nữa, hay là lại thêm một lần nữa cô hồn đánh gục đi niềm tin của chúng ta về nhau. Anh cũng không biết nữa, kệ đi để ngày này tháng sau anh sẽ kể cho em nhé
+  你永远不会孤单 <3`,
+  code: "30082025"
+  }
     ]
   }
 ];
