@@ -44,6 +44,12 @@ Dchou`,
   thay đổi con tim chúng ta không nữa, hay là lại thêm một lần nữa cô hồn đánh gục đi niềm tin của chúng ta về nhau. Anh cũng không biết nữa, kệ đi để ngày này tháng sau anh sẽ kể cho em nhé
   你永远不会孤单 <3`,
   code: "30082025"
+  },
+  {title: "01/10/2025: chouchouchou siuuuu đáng iu",
+    content: `Nhìn vô dòng đời đã qua, cuộc đời bất biến giữa biển lũ vô phạt chúng ta đã trải qua 5 tháng bên nhau trong những ngày mưa lũ của thời tiết. Tháng này thật lạ vì chúng ta đã hạnh phúc, vui có, buồn có và mệt mỏi từ anh. Cuộc đời cũng biết chiều đời khi tưởng rằng chúng ta sẽ có một tháng very chill nhưng cơn mưa cuối tháng đến trôi đi sự bản lĩnh, chất thép của một ông cu ở thành phố thông minh nào đó. Ông cu đấy chắc giống anh nhưng khi bản lĩnh hết ông cu lại rơm rớm nước mắt trước người mình yêu,
+    dù muốn từ bỏ vì những ngày bất định trong tháng nhưng rồi khi đứng trước người mà ông cu luôn yêu thương, luôn cù và luôn dõi theo ấy lại không muốn rời xa vì những tiếng yêu toát ra giữa trời mưa hôm ấy khiến ông cu không muốn để người mình yêu cô đơn thêm một lần nữa. Haizz nhưng rồi hết mưa, hết tháng anh không thấy ông cu thành phố thông minh nữa, không còn thấy sự mệt mỏi nào cả. Mong rằng chúng ta dù có bão gió ra sao dù có muốn từ bỏ khi mệt mỏi nhưng vẫn đợi một cái ôm, một câu thần chú, một tiếng yêu để
+    có thể luôn bên nhau đến những ngày không muốn rời xa nhau nữa. Iu bé nhìu lắm, tháng này cù liên tục :))))`,
+    code: "01102025"
   }
     ]
   }
