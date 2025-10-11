@@ -9,7 +9,7 @@ const users = [
         content: `Vậy là cũng đã hơn 1 tháng một chút xíu chúng ta yêu nhau, đây là lần đầu tiên anh viết thư cho em dưới hình thức lạ hoắc này.
 Có lẽ khoảng thời gian bên em là lúc anh cảm thấy vui vẻ nhất. Gần đây anh có đôi chút mệt mỏi vì học tập và công việc, nhưng mỗi khi được nói chuyện hay gặp em, nụ cười lại hiện lên trên môi anh.
 Em mang đến cho anh cảm giác hạnh phúc và háo hức, như thể mọi mệt mỏi đều tan biến khi em xuất hiện.
-Cảm ơn em vì đã đến bên anh, đã mang đến cho anh một tình yêu mà anh luôn khao khát.
+Cảm ơn em vì đã đến bên anh, đã mang đến cho anh một tình yêu mà anh luôn mong muốn.
 Anh mong rằng mình sẽ còn tạo ra nhiều điều bất ngờ, nhiều niềm vui hơn thế này dành cho người con gái anh yêu nhất. <3 
 
 Yêu vợ tương lai, Xbac của em <3`,
@@ -19,7 +19,7 @@ Yêu vợ tương lai, Xbac của em <3`,
         title: "02072025: Chân thành cho em iu 💖",
         content: `Mặc dù anh không hề ngại ngùng khi viết, nhưng vì muốn em rèn luyện bản thân nên anh sẽ viết bằng tiếng Anh he :))).
 
-I am very happy to open the source code to write you these sincere words. Another month has passed; we have memories, quarrels, joys, happiness, etc. But I am still the same – still here, the one who holds you in his arms, listens to your stories and jokes.
+I am very happy to open the source code to write you these sincere words. Another month has passed, we have memories, quarrels, joys, happiness, etc. But I am still the same still here, the one who holds you in his arms, listens to your stories and jokes.
 Thank you for being with me, even though there were times when I accidentally forgot you. I am not a perfect person, but I will try to improve myself so that we can continue together in the following days, writing letters to each other and telling each other about what we have experienced in life and love.
 Let me think about you :))). Love you forever <3`,
         code: "02072025"
@@ -37,18 +37,15 @@ Dchou`,
 },
   {title: "30082025: thư của mèo iu :)) <3",
   content: ` Ayyy dooo, lại thêm một tháng nữa trôi qua anh lại được viết thư hehhee. Chúng ta bắt đầu tháng 8 trong môi trường mới nhiều kỉ niệm nhưng trong đó cũng có chút biến động.
-  Là những lúc anh không liên lạc được cho em, là những nỗi nhớ vu vơ và cả những mảnh tình gần như sắp kết thúc. Nhưng rồi trong những khoảnh khắc yếu lòng anh lại không lỡ bỏ đi một 
-  người đang yêu mình, đang mong chờ một cái ôm khi gặp và một nụ hôn khi tạm biệt nhau. Có lẽ khoảng thời gian tháng 8 anh nhận thấy bản thân mình đã có những sai sót những điểm yếu hại người
-  mà khi anh ra khỏi Hòa Lạc anh đã dần bớt lại và muốn ... yêu em nhiều hơn trước. 
-  Hôm nay là tròn 4 tháng chúng ta yêu nhau, lại thêm một lần nữa anh suýt bỏ lỡ em, nhưng anh vẫn ở đây, vẫn là một chàng trai luôn hết mình yêu em. Liệu rằng, cuộc sống khi đi học có làm 
-  thay đổi con tim chúng ta không nữa, hay là lại thêm một lần nữa cô hồn đánh gục đi niềm tin của chúng ta về nhau. Anh cũng không biết nữa, kệ đi để ngày này tháng sau anh sẽ kể cho em nhé
+  Là những lúc anh không liên lạc được cho em, là những nỗi nhớ vu vơ và cả những mảnh tình gần như sắp kết thúc. Nhưng rồi trong những khoảnh khắc yếu lòng anh lại không lỡ bỏ đi một người đang yêu mình, đang mong chờ một cái ôm khi gặp và một nụ hôn khi tạm biệt nhau. Có lẽ khoảng thời gian tháng 8 anh nhận thấy bản thân mình đã có những sai sót những điểm yếu hại người mà khi anh ra khỏi Hòa Lạc anh đã dần bớt lại và muốn ... yêu em nhiều hơn trước. 
+  Hôm nay là tròn 4 tháng chúng ta yêu nhau, lại thêm một lần nữa anh suýt bỏ lỡ em, nhưng anh vẫn ở đây, vẫn là một chàng trai luôn hết mình yêu em. Liệu rằng, cuộc sống khi đi học có làm thay đổi con tim chúng ta không nữa, hay là lại thêm một lần nữa cô hồn đánh gục đi niềm tin của chúng ta về nhau. Anh cũng không biết nữa, kệ đi để ngày này tháng sau anh sẽ kể cho em nhé
   你永远不会孤单 <3`,
   code: "30082025"
   },
-  {title: "01/10/2025: chouchouchou siuuuu đáng iu",
-    content: `Nhìn vô dòng đời đã qua, cuộc đời bất biến giữa biển lũ vô phạt chúng ta đã trải qua 5 tháng bên nhau trong những ngày mưa lũ của thời tiết. Tháng này thật lạ vì chúng ta đã hạnh phúc, vui có, buồn có và mệt mỏi từ anh. Cuộc đời cũng biết chiều đời khi tưởng rằng chúng ta sẽ có một tháng very chill nhưng cơn mưa cuối tháng đến trôi đi sự bản lĩnh, chất thép của một ông cu ở thành phố thông minh nào đó. Ông cu đấy chắc giống anh nhưng khi bản lĩnh hết ông cu lại rơm rớm nước mắt trước người mình yêu,
-    dù muốn từ bỏ vì những ngày bất định trong tháng nhưng rồi khi đứng trước người mà ông cu luôn yêu thương, luôn cù và luôn dõi theo ấy lại không muốn rời xa vì những tiếng yêu toát ra giữa trời mưa hôm ấy khiến ông cu không muốn để người mình yêu cô đơn thêm một lần nữa. Haizz nhưng rồi hết mưa, hết tháng anh không thấy ông cu thành phố thông minh nữa, không còn thấy sự mệt mỏi nào cả. Mong rằng chúng ta dù có bão gió ra sao dù có muốn từ bỏ khi mệt mỏi nhưng vẫn đợi một cái ôm, một câu thần chú, một tiếng yêu để
-    có thể luôn bên nhau đến những ngày không muốn rời xa nhau nữa. Iu bé nhìu lắm, tháng này cù liên tục :))))`,
+  {title: "01102025: chouchouchou siuuuu đáng iu",
+    content: `Nhìn vô dòng đời đã qua, cuộc đời bất biến giữa biển lũ vô phạt chúng ta đã trải qua 5 tháng bên nhau trong những ngày mưa lũ của thời tiết. Tháng này thật lạ vì chúng ta đã hạnh phúc, vui có, buồn có và mệt mỏi từ anh. Cuộc đời cũng biết chiều đời khi tưởng rằng chúng ta sẽ có một tháng very chill nhưng cơn mưa cuối tháng đến trôi đi sự bản lĩnh, chất thép của một ông cu ở thành phố thông minh nào đó. 
+    Ông cu đấy chắc giống anh nhưng khi bản lĩnh hết ông cu lại rơm rớm nước mắt trước người mình yêu, dù muốn từ bỏ vì những ngày bất định trong tháng nhưng rồi khi đứng trước người mà ông cu luôn yêu thương, luôn cù và luôn dõi theo ấy lại không muốn rời xa vì những tiếng yêu toát ra giữa trời mưa hôm ấy khiến ông cu không muốn để người mình yêu cô đơn thêm một lần nữa.
+    Haizz nhưng rồi hết mưa, hết tháng anh không thấy ông cu thành phố thông minh nữa, không còn thấy sự mệt mỏi nào cả. Mong rằng chúng ta dù có bão gió ra sao dù có muốn từ bỏ khi mệt mỏi nhưng vẫn đợi một cái ôm, một câu thần chú, một tiếng yêu để có thể luôn bên nhau đến những ngày không muốn rời xa nhau nữa. Iu bé nhìu lắm, tháng này cù liên tục :))))`,
     code: "01102025"
   }
     ]
@@ -115,3 +112,56 @@ function backToLetterList() {
 function toggleScreen(id, show) {
   document.getElementById(id).style.display = show ? "block" : "none";
 }
+/* ---------- FLYING CHAOS BOUNCE EFFECT ---------- */
+document.addEventListener("DOMContentLoaded", () => {
+  const flyingImgs = document.querySelectorAll(".hello-kitty, .golden, .kitty-fly, .dog-top");
+
+  flyingImgs.forEach(img => {
+    // đặt vị trí ngẫu nhiên ban đầu
+    img.style.top = Math.random() * (window.innerHeight - 120) + "px";
+    img.style.left = Math.random() * (window.innerWidth - 120) + "px";
+
+    // random tốc độ bay
+    let speedX = (Math.random() * 0.5 + 0.2) * (Math.random() < 0.5 ? 1 : -1);
+    let speedY = (Math.random() * 0.5 + 0.2) * (Math.random() < 0.5 ? 1 : -1);
+
+    // random xoay nhẹ để nhìn tự nhiên hơn
+    let rotation = Math.random() * 360;
+
+    function move() {
+      let x = parseFloat(img.style.left);
+      let y = parseFloat(img.style.top);
+
+      x += speedX;
+      y += speedY;
+
+      // nếu chạm viền màn hình → bật ngược hướng
+      if (x <= 0) {
+        x = 0;
+        speedX *= -1;
+        img.style.transform = "scaleX(1) rotate(" + rotation + "deg)";
+      }
+      if (x + img.width >= window.innerWidth) {
+        x = window.innerWidth - img.width;
+        speedX *= -1;
+        img.style.transform = "scaleX(-1) rotate(" + rotation + "deg)";
+      }
+
+      if (y <= 0) {
+        y = 0;
+        speedY *= -1;
+      }
+      if (y + img.height >= window.innerHeight) {
+        y = window.innerHeight - img.height;
+        speedY *= -1;
+      }
+
+      img.style.left = x + "px";
+      img.style.top = y + "px";
+
+      requestAnimationFrame(move);
+    }
+
+    move();
+  });
+});

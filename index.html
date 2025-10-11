@@ -3,42 +3,54 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Web of Biayciii</title>
+  <title>Biayciii </title>
   <link rel="stylesheet" href="Anhbac.css"/>
 </head>
+
 <body>
+  <!-- ẢNH ĐỘNG DỄ THƯƠNG -->
+  <img src="image/hello-kitty (1).gif" alt="Hello Kitty" class="hello-kitty">
+  <img src="image/wagging-tail-catie-offerman.webp" alt="Golden Dog" class="golden">
+  <img src="image/hello-kitty (2).gif" alt="Flying Kitty" class="kitty-fly">
+ 
+  <img src="image/golden-retriever-arf-arf.gif" alt="Dog Heart" class="dog-top">
+  <img src="image/hello-kitty.gif" alt="Hello Kitty" class="hello-kitty"
+  
+
+  <!-- MÀN HÌNH ĐĂNG NHẬP -->
   <div class="container" id="login-screen">
-    <h2>Knock!!! on the heart</h2>
+    <h2>Knock!!! on the heart 💌</h2>
     <input type="text" id="username" placeholder="username" required />
     <input type="password" id="password" placeholder="password" required />
     <button onclick="login()">Let's goo</button>
     <p id="login-msg" class="error"></p>
   </div>
 
+  <!-- MÀN HÌNH CHỌN THƯ -->
   <div class="container" id="letter-screen" style="display: none;">
-    <h2>Click a heart</h2>
+    <h2>Click a heart 💕</h2>
     <ul id="letter-list"></ul>
   </div>
 
+  <!-- MÀN HÌNH NHẬP MÃ -->
   <div class="container" id="verify-screen" style="display: none;">
-    <h2>verify code</h2>
+    <h2>Verify code 🔐</h2>
     <input type="text" id="verify-code" placeholder="Your code..." />
-    <button onclick="verifyCode()">verify</button>
+    <button onclick="verifyCode()">Verify</button>
     <p id="verify-msg" class="error"></p>
   </div>
- 
-  
+
+  <!-- MÀN HÌNH XEM THƯ -->
   <div class="container" id="letter-content-screen" style="display: none;">
     <h2 id="letter-title"></h2>
     <pre id="letter-body" class="letter-body"></pre>
 
-    <div style="display: flex; justify-content: center; margin-top: 20px;">
+    <div class="button-group">
       <button onclick="backToLetterList()">Back to letter</button>
     </div>
   </div>
 
-
-
+  <!-- SCRIPT -->
   <script src="https://cdn.jsdelivr.net/npm/qrcode/build/qrcode.min.js"></script>
   <script src="Anhbac.js"></script>
 </body>
