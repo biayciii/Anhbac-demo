@@ -48,14 +48,16 @@ Dchou`,
     Haizz nhưng rồi hết mưa, hết tháng anh không thấy ông cu thành phố thông minh nữa, không còn thấy sự mệt mỏi nào cả. Mong rằng chúng ta dù có bão gió ra sao dù có muốn từ bỏ khi mệt mỏi nhưng vẫn đợi một cái ôm, một câu thần chú, một tiếng yêu để có thể luôn bên nhau đến những ngày không muốn rời xa nhau nữa. Iu bé nhìu lắm, tháng này cù liên tục :))))`,
     code: "01102025"
   }
-    ]
-  },
+    
+  ,
   {
     title: "01112025: bé gái 10 tuổi",
     content: `one month just passed, i write more code. Mie cứ tưởng một tháng ngon lành cành đào, đào rơi ta lại húp thì lại không hiểu sao trồn lời lại cho một căn bệnh thế kỉ từ thời lính mũ cối là bệnh *** vào anh. Thề lúc đấy,vào cái ngày của women lúc biết bệnh mặt anh đơ người ra không biết cuộc sống thế nào, còn em thì :) nhưng em vẫn lo lắng cho sức khỏe của anh. Thế là anh trở thành cậu buồn. 
     Rồi đi ra quán mua một bó hoa tặng em nhưng cuộc đời lại cho anh vấp cỏ lần 2 vì hết hàng. Cảm giác như ngày mà anh muốn dành cho những người yêu thương rồi lại thành ngày của những người yêu thương cho anh. Những ngày bị bệnh, dù có cách xa một chút nhưng em vẫn luôn không né tránh anh, vẫn muốn ôm anh dù anh muốn bảo vệ sức khỏe cho em. Nhưng rồi anh khỏi bệnh, đó là lúc cuộc sống trở lại bình thường rồi anh có những ngày cù em tiếp. 
     Nhìn lại tháng 10 rất hay và buồn cười nhưng thôi không sao em ạ, thời gian có trôi nhưng tình cảm vẫn ở đó, mong rằng em vẫn luôn vui tươi đón nhận những tình cảm của anh nhé, yêu em bé gái vỏ 20 ruột 10 tuổi nhìu   `,
     code: "01112025"
+  }
+   ]
   }
 ];
 
